@@ -15,3 +15,7 @@
 .picture {
     border-radius: 60px;
 }
+
+.days {
+    font-weight: bold;
+}
